@@ -14,7 +14,6 @@
 
 @implementation ViewController
 
-#pragma mark --- 视图已经加载
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
